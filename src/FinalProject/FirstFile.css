@@ -1,0 +1,51 @@
+.form{
+    margin: 5% auto;
+    width: 30%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    background-color: darkgray;
+}
+
+p{
+    text-align: center;
+    color: red;
+    margin-top: 0px;
+}
+
+h2{
+    text-align: center;
+}
+
+.b1, .b2, .b3{
+    margin: 2% auto;
+    width: 90%;
+    height: 40px;
+    background-color: white;
+    color: black;
+}
+
+.b2{
+    background-color: blue;
+    color: white;
+}
+
+.b3{
+    width: 70%;
+    background-color: black;
+    color: white;
+}
+
+.i1{
+    width: 80%;
+    height: 35px;
+    margin: 2% auto;
+    font-size: 17px;
+}
+
+a{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin: 2% auto;
+}
